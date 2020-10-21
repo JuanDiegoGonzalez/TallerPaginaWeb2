@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#principal {
+  width: 96%;
+  background-color: #f0f8ff;
+  margin: 0 auto;  
+  border-color: #1E90FF;
+  border-style: solid;
+}
+
+#blanco {
+  background-color: white;
+}
+
+#gris {
+  background-color: #F0F0F0;
+}
+
+#morado {
+  background-color: #CC33CC;
+  color: white;
+}
+	
+#azul {
+  background-color: #0066FF;
+  color: white;
+}
+
+.col-sm {
+  border-style: groove;
+}
